@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version = 1.0
+Name = YouTube
+Comment = Watch Youtube videos
+Exec = firefox https://www.youtube.com
+Icon = /home/d20/Desktop/icons/yt.png
+Terminal = false
+Type = Application
+Category = Network;WebBrowser;
+

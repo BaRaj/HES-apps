@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version = 1.0
+Name = Prime Video
+Comment = Watch High-Quality Movies and TV-shows from Prime Video
+Exec = firefox https://www.primevideo.com
+Icon = /home/d20/Desktop/icons/prime.png
+Terminal = false
+Type = Application
+Category = Network;WebBrowser;
+

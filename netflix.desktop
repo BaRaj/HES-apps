@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version = 1.0
+Name = Netflix
+Comment = Watch High-Quality Movies and TV-shows from Netflix
+Exec = firefox https://www.netflix.com
+Icon = /home/d20/Desktop/icons/netflix.png
+Terminal = false
+Type = Application
+Category = Network;WebBrowser;
+
